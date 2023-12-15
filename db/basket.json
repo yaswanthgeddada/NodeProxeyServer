@@ -1,0 +1,1467 @@
+{
+    "CheckoutBasketTotal": {
+      "OrderSubTotal": 0,
+      "ShippableSubTotal": 0,
+      "ShippableTotal": 0,
+      "BackorderedTotal": 0,
+      "FreightTotal": 0,
+      "TaxTotal": 0.00,
+      "ExemptedTaxTotal": 0,
+      "FeeTotal": 0.00,
+      "DiscountTotal": 0,
+      "RebateTotal": 0,
+      "CorinoDiscount": 0,
+      "ElectronicOrderDiscount": 0,
+      "LiftgateServiceFee": 0,
+      "InsideDeliveryFee": 0,
+      "RecycleFee": 0,
+      "MinimumOrderFee": 0,
+      "FulfillmentFee": 0,
+      "CCFees": 0,
+      "FeeSpeed": 0,
+      "PromptPaymentDiscount": 0,
+      "DisplayPromptPaymentDiscount": false,
+      "MercadoPagoTransactionFee": 0,
+      "DisplayMercadoPagoTransactionFee": false,
+      "DisplayVoucherDiscount": false,
+      "VoucherDiscount": 0,
+      "ConvertedVoucherDiscount": 0,
+      "TotalICMSTax": 0,
+      "TotalICMSSTTax": 0,
+      "TotalOtherTax": 0,
+      "SapAcopDiscountTotal": 0,
+      "HasStockLines": false,
+      "TotalFee": 0,
+      "SubscriptionsTotal": 0.00,
+      "SubscriptionsTotalSummary": {
+        "SubscriptionSubTotal": 0.00,
+        "TotalFee": 0,
+        "TotalDiscount": 0.00,
+        "TotalTax": 0.00
+      },
+      "OrderTotal": 0.00,
+      "ResellerMargin": 0,
+      "TotalEcoFee": 0,
+      "TotalVAT": 0,
+      "FeePremium": 0,
+      "FeeASN": 0,
+      "FeeToll": 0,
+      "DasCharge": 0,
+      "WebOrderDiscount": 0,
+      "ServiceCopyRightFee": 0,
+      "ServiceCopyRight2Fee": 0,
+      "ServiceCopyRight3Fee": 0,
+      "ServiceRecyclingFee": 0,
+      "ServiceFee": 0,
+      "ServiceEwasteRecycleFee": 0,
+      "InsuranceFee": 0,
+      "Misc3RDPCFee": 0,
+      "HeavyweightFreightFee": 0,
+      "DmSKUOrdFee": 0,
+      "MiscServiceFee": 0,
+      "MiscFrtChargeNlwhse": 0,
+      "MiscHandlingCharge": 0,
+      "MiscLineInterestCharge": 0,
+      "MiscIntercoTranserFee": 0,
+      "TotalTotal": 0,
+      "FreeShipTotal": 0
+    },
+    "CheckoutBasketWeight": {
+      "TotalWeight": 0.0,
+      "ShippableTotalWeight": 0.0,
+      "BackorderedTotalWeight": 0.0
+    },
+    "UserSelectedCarriers": {
+      "Subscriptions": "GC"
+    },
+    "SalesOrderQuoteInformation": {
+      "Data": {
+        "QuoteOrderNumber": "",
+        "OrderNumbers": [
+          
+        ],
+        "IsHeremsHoldOrderSubmit": false,
+        "SelectedCarriers": {
+          "Subscriptions": "GC"
+        },
+        "FreightAmount": {
+          
+        },
+        "TaxesOrderAmount": {
+          
+        },
+        "ImpulseOffline": false,
+        "IsFullfillmentOrder": false,
+        "IsBackOrderStatus": false,
+        "OrderTotal": 0.00,
+        "SubTotal": 0.00,
+        "TaxAmount": 0.00,
+        "TotalFees": 0.00,
+        "TotalShippableAmount": 0.00,
+        "TotalShippableDiscount": 0,
+        "BaseRateDistributions": [
+          
+        ],
+        "HasAUPostError": false,
+        "HasAlreadyAUPostError": false,
+        "IsShippingAddressAUPost": false,
+        "SelectedFreightForwarder": {
+          
+        },
+        "OrderStatusList": {
+          
+        },
+        "DirectshipCarriers": {
+          
+        },
+        "estimatesummary": {
+          "estimatedetails": {
+            "total": 0.00,
+            "subtotal": 0.00,
+            "totaldiscount": 0.00,
+            "taxtotal": 0.00
+          },
+          "estimatecostdetails": {
+            "total": 0.00,
+            "subtotal": 0.00,
+            "totaldiscount": 0.00,
+            "taxtotal": 0.00
+          }
+        },
+        "subscriptionsdetails": [
+          
+        ]
+      },
+      "LastSuccessfullAttemptAt": "2023-12-14T10:25:32.4861347+00:00",
+      "LastAttemptAt": "2023-12-14T10:25:32.4861347+00:00",
+      "LastAttemptFailed": false,
+      "ErrorMessages": [
+        
+      ],
+      "WarningMessages": [
+        
+      ],
+      "InformationMessages": [
+        
+      ],
+      "SuccessMessages": [
+        
+      ],
+      "SystemErrorCode": "",
+      "SystemErrorMessage": "",
+      "ServiceStatus": 0
+    },
+    "CarriersBasedOnWebCarrierRules": {
+      "Data": [
+        "GC",
+        "WC",
+        "C2"
+      ],
+      "LastSuccessfullAttemptAt": "2023-12-14T10:25:32.4921821+00:00",
+      "LastAttemptAt": "2023-12-14T10:25:32.492181+00:00",
+      "LastAttemptFailed": false,
+      "ErrorMessages": [
+        
+      ],
+      "WarningMessages": [
+        
+      ],
+      "InformationMessages": [
+        
+      ],
+      "SuccessMessages": [
+        
+      ],
+      "ServiceStatus": 0
+    },
+    "RecentlyDeletedLines": [
+      
+    ],
+    "GhostPO": "PO23121410253585",
+    "ShipToAddress": null,
+    "ShipComplete": false,
+    "BillToAddress": null,
+    "NextLineNumber": 3,
+    "RecreateOrder": false,
+    "LtlInformation": {
+      "QuestionnaireEnabled": false,
+      "IsLtlRequired": false,
+      "IsLtlEntered": false,
+      "TermsRequired": false
+    },
+    "PaymentInformation": {
+      "PaymentType": 1,
+      "AutoSelectedBillToAddress": false,
+      "PaymentTerm": "",
+      "AllowedPaymentTypes": [
+        {
+          "PaymentType": 1,
+          "OrderTerm": "",
+          "Identifier": "Terms",
+          "Enabled": false,
+          "Sequence": 0,
+          "Fulfillment": false,
+          "PrePayment": false,
+          "PostPayment": false,
+          "OrderRank": 0,
+          "ExpiryMonth": 0,
+          "ExpiryYear": 0,
+          "IsCardSavedForFuture": false,
+          "MinOrdertoShow": 0,
+          "Termtype": false
+        },
+        {
+          "PaymentType": 4,
+          "Identifier": "VISA/VISA Electron",
+          "Enabled": true,
+          "PaymentSubType": 1,
+          "Sequence": 1,
+          "TermsList": "001,002,004,019,020,021,024,025,030,031,032,084,100,110,111,112,113,115,116,117,118,119,122,123,124,125,126,129,130,131,132,133,165,200,201,202,203,208,210,213,214,215,216,217,222,270,271,272,273,274,275,276,277,278,279,280,281,300,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,330,331,332,351,356,374,375,414,420,420,425,431,432,444,445,500,501,610,611,616,618,619,620,621,622,623,630,634,646,700,705,706,710,711,713,714,715,717,720,721,722,726,730,731,733,734,735,736,737,739,740,744,746,747,749,753,757,758,759,760,761,762,763,766,767,768,769,770,771,772,773,774,775,776,778,779,780,781,782,783,784,791,792,793,794,795,798,799,800,802,803,804,805,806,807,808,816,817,831,850,851,852,854,855,857,858,859,860,861,862,873,890,891,892,896,897,898,902,903,904,905,906,908,909,998",
+          "SalesBranch": "001,002,004,019,020,021,024,025,030,031,032,084,100,110,111,112,113,115,116,117,118,119,122,123,124,125,126,129,130,131,132,133,165,200,201,202,203,208,210,213,214,215,216,217,222,270,271,272,273,274,275,276,277,278,279,280,281,300,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,330,331,332,351,356,374,375,414,420,420,425,431,432,444,445,500,501,610,611,616,618,619,620,621,622,623,630,634,646,700,705,706,710,711,713,714,715,717,720,721,722,726,730,731,733,734,735,736,737,739,740,744,746,747,749,753,757,758,759,760,761,762,763,766,767,768,769,770,771,772,773,774,775,776,778,779,780,781,782,783,784,791,792,793,794,795,798,799,800,802,803,804,805,806,807,808,816,817,831,850,851,852,854,855,857,858,859,860,861,862,873,890,891,892,896,897,898,902,903,904,905,906,908,909,998",
+          "DivisionList": "",
+          "Fulfillment": true,
+          "PrePayment": true,
+          "PostPayment": true,
+          "OrderRank": 0,
+          "ExpiryMonth": 0,
+          "ExpiryYear": 0,
+          "IsCardSavedForFuture": false,
+          "MinOrdertoShow": 0,
+          "Termtype": false
+        },
+        {
+          "PaymentType": 5,
+          "Identifier": "Master Card",
+          "Enabled": true,
+          "PaymentSubType": 0,
+          "Sequence": 2,
+          "TermsList": "001,002,004,019,020,021,024,025,030,031,032,084,100,110,111,112,113,115,116,117,118,119,122,123,124,125,126,129,130,131,132,133,165,200,201,202,203,208,210,213,214,215,216,217,222,270,271,272,273,274,275,276,277,278,279,280,281,300,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,330,331,332,351,356,374,375,414,420,420,425,431,432,444,445,500,501,610,611,616,618,619,620,621,622,623,630,634,646,700,705,706,710,711,713,714,715,717,720,721,722,726,730,731,733,734,735,736,737,739,740,744,746,747,749,753,757,758,759,760,761,762,763,766,767,768,769,770,771,772,773,774,775,776,778,779,780,781,782,783,784,791,792,793,794,795,798,799,800,802,803,804,805,806,807,808,816,817,831,850,851,852,854,855,857,858,859,860,861,862,873,890,891,892,896,897,898,902,903,904,905,906,908,909,998",
+          "SalesBranch": "001,002,004,019,020,021,024,025,030,031,032,084,100,110,111,112,113,115,116,117,118,119,122,123,124,125,126,129,130,131,132,133,165,200,201,202,203,208,210,213,214,215,216,217,222,270,271,272,273,274,275,276,277,278,279,280,281,300,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,330,331,332,351,356,374,375,414,420,420,425,431,432,444,445,500,501,610,611,616,618,619,620,621,622,623,630,634,646,700,705,706,710,711,713,714,715,717,720,721,722,726,730,731,733,734,735,736,737,739,740,744,746,747,749,753,757,758,759,760,761,762,763,766,767,768,769,770,771,772,773,774,775,776,778,779,780,781,782,783,784,791,792,793,794,795,798,799,800,802,803,804,805,806,807,808,816,817,831,850,851,852,854,855,857,858,859,860,861,862,873,890,891,892,896,897,898,902,903,904,905,906,908,909,998",
+          "DivisionList": "",
+          "Fulfillment": true,
+          "PrePayment": true,
+          "PostPayment": true,
+          "OrderRank": 0,
+          "ExpiryMonth": 0,
+          "ExpiryYear": 0,
+          "IsCardSavedForFuture": false,
+          "MinOrdertoShow": 0,
+          "Termtype": false
+        },
+        {
+          "PaymentType": 6,
+          "Identifier": "Transferencia Online",
+          "Enabled": true,
+          "Sequence": 4,
+          "TermsList": "",
+          "SalesBranch": "",
+          "DivisionList": "",
+          "Fulfillment": true,
+          "PrePayment": true,
+          "PostPayment": true,
+          "OrderRank": 0,
+          "ExpiryMonth": 0,
+          "ExpiryYear": 0,
+          "IsCardSavedForFuture": false,
+          "MinOrdertoShow": 0,
+          "Termtype": false
+        }
+      ],
+      "isThirdPartyPaymentTypeEnabled": true,
+      "IsCTO": false
+    },
+    "CanHoldOrder": false,
+    "HideHoldOrderButton": false,
+    "DisableHold": false,
+    "CheckoutBasketMessages": [
+      
+    ],
+    "Distributions": [
+      {
+        "OrderNumber": "Subscriptions",
+        "DisplaySubmitPaymentButton": false,
+        "CreditCardEnabled": false,
+        "CreditCardOverLimit": false,
+        "WarehouseId": "Default",
+        "LineItemIds": [
+          "1a027e8d-2b55-46d7-b2e5-5c03f7f0910b",
+          "8b8256f3-ba7c-4186-bd01-49fadbfa8a6d"
+        ],
+        "DistributionTotal": {
+          "ShipComplete": false,
+          "PromptPaymentDiscount": 0,
+          "DisplayPromptPaymentDiscount": false,
+          "MercadoPagoTransactionFee": 0,
+          "DisplayMercadoPagoTransactionFee": false,
+          "ShippableSubTotal": 0,
+          "BackorderedSubTotal": 0,
+          "ShippingFee": 0,
+          "TaxesOrderAmount": 0,
+          "Tax": 0,
+          "HandlingAmount": 0,
+          "DistributionTotalDue": 0,
+          "Total": 0,
+          "RebateTotal": 0,
+          "RecycleFee": 0,
+          "CardFee": 0,
+          "MinimumOrderFee": 0,
+          "FulfillmentFee": 0,
+          "ElectronicOrderDiscount": 0,
+          "FeeSpeed": 0,
+          "VoucherDiscount": 0,
+          "ConvertedVoucherDiscount": 0,
+          "DisplayVoucherDiscount": false,
+          "ICMSTax": 0,
+          "ICMSSTTax": 0,
+          "OtherTax": 0,
+          "HasStockLines": false,
+          "DisplayFreightFromX4A": false,
+          "FeePremium": 0,
+          "FeeASN": 0,
+          "FeeToll": 0,
+          "DasCharge": 0,
+          "WebOrderDiscount": 0,
+          "ServiceCopyRightFee": 0,
+          "ServiceCopyRight2Fee": 0,
+          "ServiceCopyRight3Fee": 0,
+          "ServiceRecyclingFee": 0,
+          "ServiceFee": 0,
+          "ServiceEwasteRecycleFee": 0,
+          "InsuranceFee": 0,
+          "Misc3RDPCFee": 0,
+          "HeavyweightFreightFee": 0,
+          "DmSKUOrdFee": 0,
+          "MiscServiceFee": 0,
+          "MiscFrtChargeNlwhse": 0,
+          "MiscHandlingCharge": 0,
+          "MiscLineInterestCharge": 0,
+          "MiscIntercoTranserFee": 0,
+          "TotalTotal": 0,
+          "FreeShipTotal": 0
+        },
+        "CloudDistributionTotal": [
+          {
+            "SubscriptionSubTotal": 0.00,
+            "TaxTotal": 0.00,
+            "FeesTotal": [
+              
+            ],
+            "CustomerType": 1,
+            "SubscriptionTotal": 0.00
+          },
+          {
+            "SubscriptionSubTotal": 0.00,
+            "TaxTotal": 0.00,
+            "FeesTotal": [
+              
+            ],
+            "CustomerType": 0,
+            "SubscriptionTotal": 0.00
+          }
+        ],
+        "DistributionWeight": {
+          "TotalWeight": 0,
+          "ShippableTotalWeight": 0.0,
+          "BackorderedTotalWeight": 0.0
+        },
+        "SelectedCarrierCode": "GC",
+        "Carriers": [
+          {
+            "Code": "GC",
+            "TransitDays": 0
+          },
+          {
+            "Code": "WC",
+            "TransitDays": 0
+          },
+          {
+            "Code": "C2",
+            "TransitDays": 0
+          }
+        ],
+        "AllowCarrierSelection": false,
+        "ElectronicDelivery": false,
+        "ServiceSkuDelivery": false,
+        "Weight": 0,
+        "HasLtlLines": false,
+        "HasDirectShipLines": false,
+        "HasStockLines": false,
+        "HasDownloadableLines": false,
+        "LtlCarrierSelected": false,
+        "IsLtlDistribution": false,
+        "IsWillCallCarrierSelected": false,
+        "IsIntCarrier": false,
+        "IsHAZMATRestrictionEnabled": false,
+        "HasCloudProductLines": true
+      }
+    ],
+    "AutoUpdatedShipToAddressToBillToAssociatedAddress": false,
+    "IsSelectedCarrierChanged": false,
+    "AllowFreightForwarderSelectionAndInternationalExport": false,
+    "IsIntCarrier": false,
+    "IsDomCarrier": false,
+    "IsOrderOnHoldToSubmit": false,
+    "IsReloadPage": false,
+    "IsFlooringAddressUncheckboxEnabled": false,
+    "IsForceLicenseOrder": false,
+    "IsShipToAddressFromQ2OInValid": false,
+    "IsCarrierSelectionRequired": false,
+    "IsPickUpOptionSelected": false,
+    "IsExportCarrier": false,
+    "PickUpCarrierCode": [
+      ""
+    ],
+    "EnablePickUpDetails": false,
+    "IsVmfRequired": false,
+    "ImpulseMaxWarehouseLimit": 0,
+    "IsAdjustMarginApplied": false,
+    "KeepAdjustedPriceAfterRenewal": false,
+    "IsOrderLevelMarginApplied": false,
+    "IsDefaultShippingAddressSelected": true,
+    "UseOnlyDropshipShippingAddress": false,
+    "BillingAddressCount": 1,
+    "IsConsolidateShipmentEnabled": false,
+    "IsConsolidateShipmentSelected": true,
+    "IsUserUpdatedShipmentOption": false,
+    "IsGlobalMarginApplied": false,
+    "CommerceEntityTotal": {
+      "TotalTotal": 0.0,
+      "FreeShipTotal": 0.0
+    },
+    "IsEndUserRequire": true,
+    "FulfilledByIngramOptionVisibility": 0,
+    "IsFulfilledByIngram": false,
+    "BasketTotal": {
+      "ShippableTotal": 0.0,
+      "BackorderedTotal": 0.0,
+      "ProductTotal": 0.0,
+      "TotalICMSTax": 0.0,
+      "TotalICMSSTTax": 0.0,
+      "TotalOtherTax": 0.0,
+      "MSRPTotal": 0.0,
+      "SubscriptionsTotal": 0.0,
+      "TotalTotal": 0.0,
+      "FreeShipTotal": 0.0
+    },
+    "BasketWeight": {
+      "TotalWeight": 0.0,
+      "ShippableTotalWeight": 0.0,
+      "BackorderedTotalWeight": 0.0
+    },
+    "BasketLines": [
+      {
+        "serviceduration": 0,
+        "durationtype": 0,
+        "ProductSummary": {
+          "Data": {
+            "IsWebVisible": false,
+            "AggAvilableQty": 0,
+            "CategoryRankFactor": 0,
+            "OrderNumber": 0,
+            "IsCloudProduct": true,
+            "CloudProductInformation": {
+              "IsCloudPlan": true,
+              "CloudPlanInformation": {
+                "PlanId": "b4dd3681-a2eb-413d-a00e-bb1c9e36544e",
+                "SubscriptionDetails": {
+                  "AutoRenewalPeriod": {
+                    "Duration": 1,
+                    "Unit": 1
+                  }
+                },
+                "BillingDetails": {
+                  "Duration": 1,
+                  "Unit": 2
+                },
+                "IsTrial": false,
+                "IsResellerOnly": false,
+                "IsManagedByPLM": false,
+                "SubsPlanId": "426095",
+                "ProductApsId": "f21b6d7e-0b1a-49dc-b754-164dcff1b52b",
+                "AppApsId": "0111213b-c59a-453d-9a65-fa0565ee7513",
+                "ProductId": "PRD-632-816-538",
+                "BmResourceId": "1022713",
+                "ApsType": "http://aps.odin.com/app/PRD-632-816-538/tenant/4.0",
+                "VendorUid": "8e0d4c2f-a717-450e-9df0-47b79b3b5816",
+                "ItemId": "PRD_632_816_538_0001",
+                "CotermingPossibility": "RESTRICTED",
+                "ServiceTemplateId": "2587",
+                "IsCotermApplied": false,
+                "IsPlanWithNoResource": false,
+                "PlanUID": "1654595-b4dd3681-a2eb-413d-a00e-bb1c9e36544e-VA-426-775"
+              }
+            },
+            "IsTSSubscriptionProduct": false,
+            "IsConsumptionTypeUsageProduct": false,
+            "IsCentrallyStocked": false,
+            "GlobalSkuWithLeadingZero": "A700-b4dd3681-a2eb-413d-a00e-bb1c9e36544e",
+            "VendorCode": "VA-426-775",
+            "Description": "Professional",
+            "Vpn": "IAAS MANAGED SERVICE - PROFESSIONAL",
+            "IsNotExportable": false,
+            "AcopRequestedQty": 0.0,
+            "PPalletQuantity": 0,
+            "NoReturnsFlag": false,
+            "ProductImage": {
+              
+            },
+            "ProductStatus": {
+              "IsDiscontinued": false,
+              "IsNew": false,
+              "IsSpecialOrder": false,
+              "IsDirectShip": false,
+              "IsRefurbished": false,
+              "IsHeavyWeight": false,
+              "IsLtl": false,
+              "IsExportItem": false,
+              "IsEndUserInfoRequired": false,
+              "IsActualEndUserInfoRequired": false,
+              "IsClearanceItem": false,
+              "IsVendorAuthorizationRequired": false,
+              "IsWebVisible": false,
+              "IsReturnable": false,
+              "IsAcop": false,
+              "IsPurchasable": false,
+              "IsBlowout": false,
+              "IsFavouriteSku": false,
+              "IsBackorderAllowed": true,
+              "IsBacktoBack": false,
+              "IsDownloadable": false,
+              "IsCustOwnedStock": false,
+              "IsPreOrder": false,
+              "IsHPiQuoteSku": false,
+              "IsWebDiscount": false,
+              "HasMpDoBem": false,
+              "HasSpecialPricing": false,
+              "HasNoFreeFreight": false,
+              "HasAdditionalShippingFees": false,
+              "HasShippingLimitations": false,
+              "HasReturnLimitations": false,
+              "HasSellingRestrictions": false,
+              "HasShipAlongItems": false,
+              "HasRelatedProducts": false,
+              "IsBom": false,
+              "HasVolumeDiscount": false,
+              "IsDirectShipOrderable": false,
+              "IsWebOrderable": false,
+              "IsEASku": false,
+              "IsFreeItem": false,
+              "HasSpecialBid": false,
+              "HasAccessories": false,
+              "HasAcopQuantityBreaks": false,
+              "HasAcopSpecialPricing": false,
+              "IsComponent": false,
+              "HasCentralStock": false,
+              "IsLicenseProduct": false,
+              "IsWarranty": false,
+              "ISSAPServiceSKU": false,
+              "IsVMFCharacteristicConfigurable": false,
+              "IsSoftwareLicense": false,
+              "IsBulkFreight": false,
+              "IsDangerous": false,
+              "IsOversizeProduct": false,
+              "IsNoReturnsAllowed": false,
+              "IsNotExportable": false,
+              "IsNonTransactional": false
+            },
+            "ProductMeasurement": {
+              "ProductWeight": [
+                {
+                  "Weight": 0.0
+                }
+              ],
+              "IsBulkFreight": false,
+              "PMeasureHeight": 0.0,
+              "PMeasureWidth": 0.0,
+              "PMeasureLength": 0.0,
+              "PMeasureWeight": 0.0
+            },
+            "PriceAndStock": {
+              "MsrpPrice": 0.0,
+              "MsrpPriceTaxAmount": 0.0,
+              "DealerPrice": 0.0,
+              "DealerPriceTaxAmount": 0.0,
+              "Cost": 0.0,
+              "HasStock": true,
+              "AvailableQuantity": 0,
+              "QuantityOnOrder": 0
+            },
+            "HasAccessories": false,
+            "HasCrossSells": false,
+            "HasWarranties": false,
+            "HasSpecialBid": false,
+            "FreeItem": {
+              
+            },
+            "Extrafees": [
+              
+            ],
+            "IsDownloadable": false,
+            "IsPrescribed": false,
+            "IsWarranty": false,
+            "ISSAPServiceSKU": false,
+            "IsVMFCharacteristicConfigurable": false,
+            "IsLinkableWarranty": false,
+            "IsLicenseRuleModel": false,
+            "IsEndUserInfoRequired": false,
+            "IsActualEndUserInfoRequired": false,
+            "IsDiscontinued": false,
+            "IsLicenseProduct": false,
+            "IsSoftwareLicense": false,
+            "IsDangerous": false,
+            "IsOversizeProduct": false,
+            "IsNoReturnsAllowed": false,
+            "PriceOnAcceptance": false,
+            "PriceOnAcceptancePopUp": false,
+            "BundleSkus": [
+              
+            ],
+            "PartOfBunddles": [
+              
+            ],
+            "Flags": [
+              
+            ],
+            "AuthorizedToPurchase": true
+          },
+          "LastSuccessfullAttemptAt": "2023-12-14T10:23:51.7247191+00:00",
+          "LastAttemptFailed": false,
+          "ISOLanguageCode": "en",
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            
+          ],
+          "SystemErrorMessage": "Pricing Not Found",
+          "ServiceStatus": 0
+        },
+        "PricingAndAvailability": {
+          "Data": {
+            "Pricing": {
+              "ListPrice": 0.0,
+              "ExtendedPrice": 0.0,
+              "ReplacementCost": 0.0,
+              "IngramCost": 0.0,
+              "ItemLevelDiscountAmount": 0.0,
+              "TaxTotal": 0.0,
+              "IsGDSEnable": false,
+              "MSRP": 0.0,
+              "ExtendedMSRP": 0.0,
+              "HasPromotions": false,
+              "HasSpecialPricing": false,
+              "HasWebDiscount": false,
+              "IsNonIMTSSku": false,
+              "DealerPrice": 0.0,
+              "DealerPrice1": 0.0,
+              "Taxes": [
+                
+              ],
+              "TaxEngineResponses": [
+                
+              ],
+              "Promotions": [
+                
+              ],
+              "EnvironmentalFees": [
+                
+              ],
+              "ExchangeRateAmount": 0,
+              "IsDiscountApplied": false,
+              "IsDiscountAvailable": false,
+              "IsFeeRequired": false,
+              "IsSBODefaultEndUser": false,
+              "CustomerPrice": 0.0,
+              "isMPdoBEMEligible": false,
+              "MpdoBEMLimit": 0.0,
+              "isServiceSku": false,
+              "QuantityBreaks": [
+                
+              ],
+              "ColumnIndicator": false,
+              "IsAcopApplied": false,
+              "IsNetZeroDelta": false,
+              "IsDoubleDippingEnabled": false,
+              "OrgDealerPrice": 0.0,
+              "avgcost": 0.0,
+              "Acops": [
+                
+              ],
+              "CloudProductPricingInformation": {
+                "Margin": 0.00,
+                "IsAdjustMarginApplied": false
+              },
+              "CloudTieredResellerLinePrice": 0.0,
+              "CloudTieredMsrpLinePrice": 0.0,
+              "IsAdjustUnitPriceApplied": false,
+              "OriginalPrice": 0.0,
+              "OriginalCustomerPrice": 0.0
+            }
+          },
+          "LastSuccessfullAttemptAt": "2023-12-14T10:23:52.4961232+00:00",
+          "LastAttemptAt": "2023-12-14T10:23:52.4961222+00:00",
+          "LastAttemptFailed": false,
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            {
+              
+            }
+          ],
+          "SystemErrorCode": "400",
+          "SystemErrorMessage": "Pricing Not Found",
+          "ServiceStatus": 0
+        },
+        "LastModified": "2023-12-14T10:18:33.5406527+00:00",
+        "IsDeleted": false,
+        "IsCentralStock": false,
+        "IsHeavyWeight": false,
+        "IsHPiQuoteSKU": false,
+        "IsHardAttachSKU": false,
+        "IsSuggestedProductSKU": false,
+        "HasSpecialPricingSummary": false,
+        "IsEODAcopApplied": false,
+        "HasWebDiscount": false,
+        "HasQuantityBreakSummary": false,
+        "ShowMaxQtyExceededMessage": false,
+        "LineCheckoutInformation": {
+          "Data": {
+            "CustomerLineNumber": 1
+          },
+          "LastAttemptAt": "2023-12-14T10:25:32.4861347+00:00",
+          "LastAttemptFailed": true,
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            
+          ],
+          "ServiceStatus": 2
+        },
+        "DirectShipVmfFields": {
+          
+        },
+        "STypeVmfFields": {
+          
+        },
+        "VMFCharacteristicsValue": {
+          
+        },
+        "EndlessVmfFields": {
+          
+        },
+        "LastVmfUpdate": "0001-01-01T00:00:00",
+        "DirectShipGroupId": "00000000-0000-0000-0000-000000000000",
+        "EndlessAisleGroupId": "00000000-0000-0000-0000-000000000000",
+        "STypeGroupId": "00000000-0000-0000-0000-000000000000",
+        "LastUsedUnitPrice": 0.0,
+        "LastUsedUnitPriceDelta": 0,
+        "QuantityBreaks": {
+          "LastAttemptFailed": false,
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            
+          ],
+          "ServiceStatus": 0
+        },
+        "IsAcopApplied": false,
+        "SelectWarehouse": false,
+        "AppleCareDeviceInfoRequired": false,
+        "IsAribaSession": false,
+        "IsAribaSettingsEnabled": false,
+        "BackOrderedQuantity": 0,
+        "ProductRequestedQuantity": 0,
+        "MaxAllowedQuantity": 0,
+        "UnitPrice": 0.0,
+        "IsBrazilLinePrice": false,
+        "EndUserPrice": 0.0,
+        "CustomerEnteredPrice": 0.0,
+        "IsMPdoBEMEligible": false,
+        "UnitPriceWithOutTax": 0.0,
+        "MpdoBEMLimit": 0.0,
+        "IsDefaultEUDeleteRequest": false,
+        "IsSpla": false,
+        "CustomerPrice": 0.0,
+        "MpDoBemLimitCrossed": false,
+        "AppleDEPEnrollRequired": false,
+        "LineTypeQuote": "",
+        "IsFulfilledByIngram": false,
+        "IsVEUDVendor": false,
+        "IsOrderVerifyAPISuccessful": false,
+        "IsSkuRequireSingleUseEndUser": false,
+        "IsSkuRequireEndUser": true,
+        "WarrantySkuFields": {
+          "IsSkuRequireSerialNo": false,
+          "IsSkuRequireDate": false,
+          "DateGracePeriodNoOfDays": 0,
+          "LookUpDateGracePeriodNoOfDays": 0,
+          "IsSkuRequireVerifyAPIToCall": false,
+          "IsSkuRequireCompactCheck": false,
+          "NoOfAccessoriesOrSecondarySrNo": 0,
+          "FromDate": "0001-01-01T00:00:00",
+          "ToDate": "0001-01-01T00:00:00",
+          "MaxLineQtyPerWarrantyAfterSaleOrder": 0,
+          "MaxLineQtyPerWarrantyConcurrentOrder": 0,
+          "IsBulkUploadEnable": false,
+          "SerialNumberMinLength": 0,
+          "SerialNumberMaxLength": 0,
+          "MaxHardwarePerWarranty": 0,
+          "IsSkuRequireMSANumber": false
+        },
+        "IsRenewVuewQuoteline": false,
+        "LineSplit": false,
+        "VMFCharacteristicsStatus": false,
+        "IsEndUserModeLine": false,
+        "IsSplitLineWarehouseWise": false,
+        "IsSplitLineCartWise": false,
+        "EnableTTypeBackorder": true,
+        "CentralWarehouseBranches": [
+          "80",
+          "81"
+        ],
+        "IsBackOrderNotAllowed": false,
+        "IsNonTransactional": false,
+        "IsSingleWareHouse": false,
+        "IsBackorderSkuRestriction": false,
+        "LineOrderType": 0,
+        "IsOrderTypeChangeAllowed": false,
+        "IsStdSpecialPrice": false,
+        "IsACOPAppliedToPrice": false,
+        "IsQuantityBreaksAvailable": false,
+        "IsACOPSpecialPriceApplied": false,
+        "IsACOPVolumeDiscountApplied": false,
+        "IsEODACOPSpecialPriceApplied": false,
+        "IsEODACOPVolumeDiscountApplied": false,
+        "IsStdQuantityBreakApplied": false,
+        "IsAcopLineAvailable": false,
+        "OriginalCartLineQuantity": 0,
+        "OriginalCartLineBackOrderQuantity": 0,
+        "IsCompleteDelivery": false,
+        "IsAcopMaxLimitBackofficeEnabled": false,
+        "LineType": 1,
+        "Id": "1a027e8d-2b55-46d7-b2e5-5c03f7f0910b",
+        "Quantity": 1,
+        "IsChanged": true
+      },
+      {
+        "serviceduration": 0,
+        "durationtype": 0,
+        "ProductSummary": {
+          "Data": {
+            "IsWebVisible": false,
+            "AggAvilableQty": 0,
+            "CategoryRankFactor": 0,
+            "OrderNumber": 0,
+            "IsCloudProduct": true,
+            "CloudProductInformation": {
+              "IsCloudPlan": false,
+              "CloudPlanOptionInformation": {
+                "PlanId": "b4dd3681-a2eb-413d-a00e-bb1c9e36544e",
+                "OptionId": "78b209da-aecc-4322-a20d-4e008ccbd493",
+                "ProductApsId": "f21b6d7e-0b1a-49dc-b754-164dcff1b52b",
+                "PlanDescription": "Professional",
+                "IsResellerOnly": false,
+                "UnitOfMeasure": "unit",
+                "Units": {
+                  "Included": 1,
+                  "Min": 1,
+                  "Max": 1
+                },
+                "Recurringpricemodel": "FLAT",
+                "IsCotermApplied": false,
+                "BmResourceId": "1022713",
+                "ItemId": "PRD_632_816_538_0001"
+              }
+            },
+            "IsTSSubscriptionProduct": false,
+            "IsConsumptionTypeUsageProduct": false,
+            "IsCentrallyStocked": false,
+            "GlobalSkuWithLeadingZero": "A700-b4dd3681-a2eb-413d-a00e-bb1c9e36544e",
+            "VendorCode": "VA-426-775",
+            "Description": "IaaS Managed Service - Professional",
+            "Vpn": "IAAS MANAGED SERVICE - PROFESSIONAL",
+            "IsNotExportable": false,
+            "AcopRequestedQty": 0.0,
+            "PPalletQuantity": 0,
+            "NoReturnsFlag": false,
+            "ProductImage": {
+              
+            },
+            "ProductStatus": {
+              "IsDiscontinued": false,
+              "IsNew": false,
+              "IsSpecialOrder": false,
+              "IsDirectShip": false,
+              "IsRefurbished": false,
+              "IsHeavyWeight": false,
+              "IsLtl": false,
+              "IsExportItem": false,
+              "IsEndUserInfoRequired": false,
+              "IsActualEndUserInfoRequired": false,
+              "IsClearanceItem": false,
+              "IsVendorAuthorizationRequired": false,
+              "IsWebVisible": false,
+              "IsReturnable": false,
+              "IsAcop": false,
+              "IsPurchasable": false,
+              "IsBlowout": false,
+              "IsFavouriteSku": false,
+              "IsBackorderAllowed": true,
+              "IsBacktoBack": false,
+              "IsDownloadable": false,
+              "IsCustOwnedStock": false,
+              "IsPreOrder": false,
+              "IsHPiQuoteSku": false,
+              "IsWebDiscount": false,
+              "HasMpDoBem": false,
+              "HasSpecialPricing": false,
+              "HasNoFreeFreight": false,
+              "HasAdditionalShippingFees": false,
+              "HasShippingLimitations": false,
+              "HasReturnLimitations": false,
+              "HasSellingRestrictions": false,
+              "HasShipAlongItems": false,
+              "HasRelatedProducts": false,
+              "IsBom": false,
+              "HasVolumeDiscount": false,
+              "IsDirectShipOrderable": false,
+              "IsWebOrderable": false,
+              "IsEASku": false,
+              "IsFreeItem": false,
+              "HasSpecialBid": false,
+              "HasAccessories": false,
+              "HasAcopQuantityBreaks": false,
+              "HasAcopSpecialPricing": false,
+              "IsComponent": false,
+              "HasCentralStock": false,
+              "IsLicenseProduct": false,
+              "IsWarranty": false,
+              "ISSAPServiceSKU": false,
+              "IsVMFCharacteristicConfigurable": false,
+              "IsSoftwareLicense": false,
+              "IsBulkFreight": false,
+              "IsDangerous": false,
+              "IsOversizeProduct": false,
+              "IsNoReturnsAllowed": false,
+              "IsNotExportable": false,
+              "IsNonTransactional": false
+            },
+            "ProductMeasurement": {
+              "ProductWeight": [
+                {
+                  "Weight": 0.0
+                }
+              ],
+              "IsBulkFreight": false,
+              "PMeasureHeight": 0.0,
+              "PMeasureWidth": 0.0,
+              "PMeasureLength": 0.0,
+              "PMeasureWeight": 0.0
+            },
+            "PriceAndStock": {
+              "MsrpPrice": 0.0,
+              "MsrpPriceTaxAmount": 0.0,
+              "DealerPrice": 0.0,
+              "DealerPriceTaxAmount": 0.0,
+              "Cost": 0.0,
+              "HasStock": true,
+              "AvailableQuantity": 0,
+              "QuantityOnOrder": 0
+            },
+            "HasAccessories": false,
+            "HasCrossSells": false,
+            "HasWarranties": false,
+            "HasSpecialBid": false,
+            "FreeItem": {
+              
+            },
+            "Extrafees": [
+              
+            ],
+            "IsDownloadable": false,
+            "IsPrescribed": false,
+            "IsWarranty": false,
+            "ISSAPServiceSKU": false,
+            "IsVMFCharacteristicConfigurable": false,
+            "IsLinkableWarranty": false,
+            "IsLicenseRuleModel": false,
+            "IsEndUserInfoRequired": false,
+            "IsActualEndUserInfoRequired": false,
+            "IsDiscontinued": false,
+            "IsLicenseProduct": false,
+            "IsSoftwareLicense": false,
+            "IsDangerous": false,
+            "IsOversizeProduct": false,
+            "IsNoReturnsAllowed": false,
+            "PriceOnAcceptance": false,
+            "PriceOnAcceptancePopUp": false,
+            "BundleSkus": [
+              
+            ],
+            "PartOfBunddles": [
+              
+            ],
+            "Flags": [
+              
+            ],
+            "AuthorizedToPurchase": true
+          },
+          "LastSuccessfullAttemptAt": "2023-12-14T10:23:51.7247509+00:00",
+          "LastAttemptFailed": false,
+          "ISOLanguageCode": "en",
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            
+          ],
+          "SystemErrorMessage": "Pricing Not Found",
+          "ServiceStatus": 0
+        },
+        "PricingAndAvailability": {
+          "Data": {
+            "Pricing": {
+              "ListPrice": 0.0,
+              "ExtendedPrice": 0.0,
+              "ReplacementCost": 0.0,
+              "IngramCost": 0.0,
+              "ItemLevelDiscountAmount": 0.0,
+              "TaxTotal": 0.0,
+              "IsGDSEnable": false,
+              "MSRP": 0.0,
+              "ExtendedMSRP": 0.0,
+              "HasPromotions": false,
+              "HasSpecialPricing": false,
+              "HasWebDiscount": false,
+              "IsNonIMTSSku": false,
+              "DealerPrice": 0.0,
+              "DealerPrice1": 0.0,
+              "Taxes": [
+                
+              ],
+              "TaxEngineResponses": [
+                
+              ],
+              "Promotions": [
+                
+              ],
+              "EnvironmentalFees": [
+                
+              ],
+              "ExchangeRateAmount": 0,
+              "IsDiscountApplied": false,
+              "IsDiscountAvailable": false,
+              "IsFeeRequired": false,
+              "IsSBODefaultEndUser": false,
+              "CustomerPrice": 0.0,
+              "isMPdoBEMEligible": false,
+              "MpdoBEMLimit": 0.0,
+              "isServiceSku": false,
+              "QuantityBreaks": [
+                
+              ],
+              "ColumnIndicator": false,
+              "IsAcopApplied": false,
+              "IsNetZeroDelta": false,
+              "IsDoubleDippingEnabled": false,
+              "OrgDealerPrice": 0.0,
+              "avgcost": 0.0,
+              "Acops": [
+                
+              ],
+              "CloudProductPricingInformation": {
+                "Margin": 0.0,
+                "IsAdjustMarginApplied": false
+              },
+              "CloudRecurringPriceModel": "FLAT",
+              "CloudTieredResellerLinePrice": 0.0,
+              "CloudTieredMsrpLinePrice": 0.0,
+              "UnitPriceMargin": 0.0,
+              "IsAdjustUnitPriceApplied": false,
+              "OriginalPrice": 0.0,
+              "OriginalCustomerPrice": 0.0
+            },
+            "Availability": {
+              "IsAvailable": false,
+              "IsStockable": false,
+              "HasQuantityBreaks": false,
+              "RequiresEndUser": false,
+              "CurrentStock": 0,
+              "CanBackOrder": true,
+              "WarehouseStockDetails": [
+                
+              ],
+              "ReservedStockDetails": [
+                
+              ],
+              "HasReserveStocks": false,
+              "ShowStockThresholdValue": false,
+              "HideOnOrderStockColumn": false,
+              "isSerializedSku": false,
+              "isRestrictedSku": false,
+              "isBackEndSAP": false,
+              "hazmatIndicator": false,
+              "CloudProductAvailabilityInformation": {
+                "AvailableQuantity": 0
+              }
+            }
+          },
+          "LastSuccessfullAttemptAt": "2023-12-14T10:23:52.4961232+00:00",
+          "LastAttemptAt": "2023-12-14T10:23:52.4961222+00:00",
+          "LastAttemptFailed": false,
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            {
+              
+            }
+          ],
+          "SystemErrorCode": "400",
+          "SystemErrorMessage": "Pricing Not Found",
+          "ServiceStatus": 0
+        },
+        "LastModified": "2023-12-14T10:18:33.540678+00:00",
+        "IsDeleted": false,
+        "IsCentralStock": false,
+        "IsHeavyWeight": false,
+        "IsHPiQuoteSKU": false,
+        "IsHardAttachSKU": false,
+        "IsSuggestedProductSKU": false,
+        "HasSpecialPricingSummary": false,
+        "IsEODAcopApplied": false,
+        "HasWebDiscount": false,
+        "HasQuantityBreakSummary": false,
+        "ShowMaxQtyExceededMessage": false,
+        "LineCheckoutInformation": {
+          "Data": {
+            "CustomerLineNumber": 2
+          },
+          "LastAttemptAt": "2023-12-14T10:25:32.4861347+00:00",
+          "LastAttemptFailed": true,
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            
+          ],
+          "ServiceStatus": 2
+        },
+        "DirectShipVmfFields": {
+          
+        },
+        "STypeVmfFields": {
+          
+        },
+        "VMFCharacteristicsValue": {
+          
+        },
+        "EndlessVmfFields": {
+          
+        },
+        "LastVmfUpdate": "0001-01-01T00:00:00",
+        "DirectShipGroupId": "00000000-0000-0000-0000-000000000000",
+        "EndlessAisleGroupId": "00000000-0000-0000-0000-000000000000",
+        "STypeGroupId": "00000000-0000-0000-0000-000000000000",
+        "LastUsedUnitPrice": 0.0,
+        "LastUsedUnitPriceDelta": 0,
+        "QuantityBreaks": {
+          "LastAttemptFailed": false,
+          "ErrorMessages": [
+            
+          ],
+          "WarningMessages": [
+            
+          ],
+          "InformationMessages": [
+            
+          ],
+          "SuccessMessages": [
+            
+          ],
+          "ServiceStatus": 0
+        },
+        "IsAcopApplied": false,
+        "SelectWarehouse": false,
+        "AppleCareDeviceInfoRequired": false,
+        "IsAribaSession": false,
+        "IsAribaSettingsEnabled": false,
+        "BackOrderedQuantity": 0,
+        "ProductRequestedQuantity": 0,
+        "MaxAllowedQuantity": 0,
+        "UnitPrice": 0.0,
+        "IsBrazilLinePrice": false,
+        "EndUserPrice": 0.0,
+        "CustomerEnteredPrice": 0.0,
+        "IsMPdoBEMEligible": false,
+        "UnitPriceWithOutTax": 0.0,
+        "MpdoBEMLimit": 0.0,
+        "IsDefaultEUDeleteRequest": false,
+        "IsSpla": false,
+        "CustomerPrice": 0.0,
+        "MpDoBemLimitCrossed": false,
+        "AppleDEPEnrollRequired": false,
+        "LineTypeQuote": "",
+        "IsFulfilledByIngram": false,
+        "IsVEUDVendor": false,
+        "IsOrderVerifyAPISuccessful": false,
+        "IsSkuRequireSingleUseEndUser": false,
+        "IsSkuRequireEndUser": false,
+        "WarrantySkuFields": {
+          "IsSkuRequireSerialNo": false,
+          "IsSkuRequireDate": false,
+          "DateGracePeriodNoOfDays": 0,
+          "LookUpDateGracePeriodNoOfDays": 0,
+          "IsSkuRequireVerifyAPIToCall": false,
+          "IsSkuRequireCompactCheck": false,
+          "NoOfAccessoriesOrSecondarySrNo": 0,
+          "FromDate": "0001-01-01T00:00:00",
+          "ToDate": "0001-01-01T00:00:00",
+          "MaxLineQtyPerWarrantyAfterSaleOrder": 0,
+          "MaxLineQtyPerWarrantyConcurrentOrder": 0,
+          "IsBulkUploadEnable": false,
+          "SerialNumberMinLength": 0,
+          "SerialNumberMaxLength": 0,
+          "MaxHardwarePerWarranty": 0,
+          "IsSkuRequireMSANumber": false
+        },
+        "IsRenewVuewQuoteline": false,
+        "LineSplit": false,
+        "VMFCharacteristicsStatus": false,
+        "IsEndUserModeLine": false,
+        "IsSplitLineWarehouseWise": false,
+        "IsSplitLineCartWise": false,
+        "EnableTTypeBackorder": true,
+        "CentralWarehouseBranches": [
+          "80",
+          "81"
+        ],
+        "IsBackOrderNotAllowed": false,
+        "IsNonTransactional": false,
+        "IsSingleWareHouse": false,
+        "IsBackorderSkuRestriction": false,
+        "LineOrderType": 0,
+        "IsOrderTypeChangeAllowed": false,
+        "IsStdSpecialPrice": false,
+        "IsACOPAppliedToPrice": false,
+        "IsQuantityBreaksAvailable": false,
+        "IsACOPSpecialPriceApplied": false,
+        "IsACOPVolumeDiscountApplied": false,
+        "IsEODACOPSpecialPriceApplied": false,
+        "IsEODACOPVolumeDiscountApplied": false,
+        "IsStdQuantityBreakApplied": false,
+        "IsAcopLineAvailable": false,
+        "OriginalCartLineQuantity": 0,
+        "OriginalCartLineBackOrderQuantity": 0,
+        "IsCompleteDelivery": false,
+        "IsAcopMaxLimitBackofficeEnabled": false,
+        "LineType": 1,
+        "Id": "8b8256f3-ba7c-4186-bd01-49fadbfa8a6d",
+        "Quantity": 1,
+        "IsChanged": true
+      }
+    ],
+    "Notes": "",
+    "ResellerId": "29371477",
+    "SiteCode": "es",
+    "PnAStatus": {
+      "LastSuccessfullAttemptAt": "2023-12-14T10:23:52.4961232+00:00",
+      "LastAttemptAt": "2023-12-14T10:23:52.4961222+00:00",
+      "LastAttemptFailed": false,
+      "ErrorMessages": [
+        
+      ],
+      "WarningMessages": [
+        
+      ],
+      "InformationMessages": [
+        
+      ],
+      "SuccessMessages": [
+        
+      ],
+      "SystemErrorCode": "200",
+      "SystemErrorMessage": "Data Found",
+      "ServiceStatus": 0
+    },
+    "IsMobile": false,
+    "HasIe": false,
+    "HasEu": false,
+    "IsSelectedSource": false,
+    "IsQuoteTypeRenewal": false,
+    "UserSelectsWarehouse": false,
+    "BasketMessages": [
+      
+    ],
+    "EndlessAisleGroups": [
+      
+    ],
+    "IsVoucherOperationEnabled": true,
+    "VoucherCode": "",
+    "AppleCareIntegrationEnable": true,
+    "DisplayAdditionalFeesEnable": true,
+    "DirectShipPaymentWarningFlg": true,
+    "IsSTypeQuestionnaireEnabled": true,
+    "EnableRedesignedVendorQuestionnaire": true,
+    "IsSpla": false,
+    "SplaLocalReportDueDate": "0001-01-01T00:00:00",
+    "IsFirstCheckoutBasketLoad": false,
+    "RefreshDirectShipBasketPage": false,
+    "RefreshSTypeBasketPage": false,
+    "EndUserInfo": {
+      "FirstName": "Test Test",
+      "LastName": "",
+      "CompanyName": "TEST TEST",
+      "FullAddress": "CL DE EMILIO VARGAS, 12   ",
+      "Line1": "CL DE EMILIO VARGAS, 12",
+      "Line2": "",
+      "Line4": "",
+      "City": "MADRID",
+      "StateName": "",
+      "StateCode": "",
+      "PostalCode": "28043",
+      "CountryName": "Spain",
+      "CountryCode": "ES",
+      "FaxNumber": "0",
+      "PhoneNumber": "1234123412",
+      "Email": "test@ingrammicro.com",
+      "FullName": "Test Test",
+      "EndUserAddressSeqId": "",
+      "EndUserContactId": "",
+      "IndustrySegmentation": "S",
+      "IngramEndUserId": "",
+      "IsNewEndUser": false,
+      "EndUserContractId": "",
+      "EndUserAgreementId": "",
+      "EndUserLicenseId": "",
+      "EndUserAcopId": "",
+      "SseuEndUserId": "",
+      "SseuAddressId": "",
+      "SseuContactId": "",
+      "EndUserNumber": "",
+      "EndUserContactNumber": "",
+      "RenewVueEndUserId": "",
+      "GCPEndUserId": "663162",
+      "GCPEndUserAddressSeqId": "602942",
+      "GCPEndUserContactId": "539019",
+      "CMPEndUserNumber": "1053464",
+      "CMPEndUserAccountId": "f5f0d42c-7411-4d74-9587-0c9e17476de3",
+      "ERPType": "C",
+      "EndUserContacts": [
+        {
+          "ERPType": "C",
+          "ContactType": "A",
+          "FirstName": "Test Test",
+          "LastName": "",
+          "FullName": "Test Test",
+          "Email": "test@ingrammicro.com",
+          "PhoneNumber": "1234123412"
+        },
+        {
+          "ERPType": "C",
+          "ContactType": "B",
+          "FirstName": "Test Test",
+          "LastName": "",
+          "FullName": "Test Test",
+          "Email": "test@ingrammicro.com",
+          "PhoneNumber": "1234123412"
+        },
+        {
+          "ERPType": "C",
+          "ContactType": "T",
+          "FirstName": "Test Test",
+          "LastName": "",
+          "FullName": "Test Test",
+          "Email": "test@ingrammicro.com",
+          "PhoneNumber": "1234123412"
+        }
+      ]
+    },
+    "EnableAppleDep": false,
+    "IsEndUserCustomerNumberChanged": false,
+    "IsEndUserFromQuote": false,
+    "IsMultiConfigWithSuggested": false,
+    "SplaReportId": 0,
+    "SplaAgreementId": 0,
+    "IsSPLAFlow": false,
+    "FutureFunctionalityFlags": {
+      "EnableCheckoutRedesign": true,
+      "EnableCartSplitLine": true,
+      "EnableCartSplitLineForSpecialPricing": false,
+      "EnableWarrantyManualLink": true,
+      "EnableVmfEngineApi": true,
+      "EnableCTODynamicVMF": false,
+      "EnableQ2OUnification": false
+    },
+    "IsEppAccount": false,
+    "CloudProductsGroup": {
+      "CloudProductResellerVmf": {
+        "ResellerVmf": [
+          
+        ]
+      },
+      "CloudProductCustomerVmf": {
+        "CustomerVmf": [
+          
+        ]
+      },
+      "apsResourceId": "73a5ecdf-c056-4d38-8a12-40c0658bcb0f",
+      "CloudVmfDataFromEverestEnabled": false
+    },
+    "BasketOrderType": 0,
+    "Id": "fab129d4-46a1-4096-89de-00271316b674",
+    "Name": "My Cart 1",
+    "CommerceEntityType": 2,
+    "SecurityLevel": 1,
+    "EndUserCompanyName": "TEST TEST",
+    "BasketLineCount": 1,
+    "OwnerUserId": "6316ffb1-a8ba-4b8a-a5c0-1f5c88ed37be",
+    "LockedByUserId": "6316ffb1-a8ba-4b8a-a5c0-1f5c88ed37be",
+    "Created": "2023-12-14T10:18:14.2008058+00:00",
+    "LastModified": "2023-12-14T10:25:35.2893513+00:00"
+  }

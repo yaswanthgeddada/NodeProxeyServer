@@ -1,0 +1,1331 @@
+{
+  "CheckoutBasketTotal": {
+    "OrderSubTotal": 0,
+    "ShippableSubTotal": 35.59,
+    "ShippableTotal": 40.18,
+    "BackorderedTotal": 0.00,
+    "FreightTotal": 4.59,
+    "TaxTotal": 0.00,
+    "ExemptedTaxTotal": 0,
+    "FeeTotal": 0.00,
+    "DiscountTotal": 0,
+    "RebateTotal": 0,
+    "CorinoDiscount": 0,
+    "ElectronicOrderDiscount": 0,
+    "LiftgateServiceFee": 0,
+    "InsideDeliveryFee": 0,
+    "RecycleFee": 0,
+    "MinimumOrderFee": 0,
+    "FulfillmentFee": 0,
+    "CCFees": 0,
+    "FeeSpeed": 0,
+    "PromptPaymentDiscount": 0,
+    "DisplayPromptPaymentDiscount": false,
+    "MercadoPagoTransactionFee": 0,
+    "DisplayMercadoPagoTransactionFee": false,
+    "DisplayVoucherDiscount": false,
+    "VoucherDiscount": 0,
+    "ConvertedVoucherDiscount": 0,
+    "TotalICMSTax": 0,
+    "TotalICMSSTTax": 0,
+    "TotalOtherTax": 0,
+    "SapAcopDiscountTotal": 0,
+    "HasStockLines": true,
+    "TotalFee": 0,
+    "SubscriptionsTotal": 0.00,
+    "SubscriptionsTotalSummary": {
+      "SubscriptionSubTotal": 0.00,
+      "TotalFee": 0,
+      "TotalDiscount": 0.00,
+      "TotalTax": 0.00
+    },
+    "OrderTotal": 40.18,
+    "ResellerMargin": 16.02,
+    "TotalEcoFee": 0,
+    "TotalVAT": 0,
+    "FeePremium": 0,
+    "FeeASN": 0,
+    "FeeToll": 0,
+    "DasCharge": 0,
+    "WebOrderDiscount": 0,
+    "ServiceCopyRightFee": 0,
+    "ServiceCopyRight2Fee": 0,
+    "ServiceCopyRight3Fee": 0,
+    "ServiceRecyclingFee": 0,
+    "ServiceFee": 0,
+    "ServiceEwasteRecycleFee": 0,
+    "InsuranceFee": 0,
+    "Misc3RDPCFee": 0,
+    "HeavyweightFreightFee": 0,
+    "DmSKUOrdFee": 0,
+    "MiscServiceFee": 0,
+    "MiscFrtChargeNlwhse": 0,
+    "MiscHandlingCharge": 0,
+    "MiscLineInterestCharge": 0,
+    "MiscIntercoTranserFee": 0,
+    "TotalTotal": 40.18,
+    "FreeShipTotal": 0
+  },
+  "CheckoutBasketWeight": {
+    "TotalWeight": 0.4,
+    "ShippableTotalWeight": 0.4,
+    "BackorderedTotalWeight": 0.0,
+    "WeightUnit": "KG"
+  },
+  "UserSelectedCarriers": {
+    "10": "VA"
+  },
+  "SalesOrderQuoteInformation": {
+    "Data": {
+      "QuoteOrderNumber": "14-84609",
+      "OrderNumbers": [
+        "10"
+      ],
+      "IsHeremsHoldOrderSubmit": false,
+      "SelectedCarriers": {
+        "10": "VA"
+      },
+      "FreightAmount": {
+        "10": 4.590
+      },
+      "TaxesOrderAmount": {
+        "10": 0.000
+      },
+      "ImpulseOffline": false,
+      "IsFullfillmentOrder": false,
+      "IsBackOrderStatus": false,
+      "OrderTotal": 40.18,
+      "SubTotal": 40.18,
+      "TaxAmount": 0.00,
+      "CorinoDiscountAmount": 0,
+      "TotalFees": 0.00,
+      "TotalFreightAmount": 4.59,
+      "TotalShippableAmount": 40.18,
+      "TotalShippableDiscount": 0,
+      "BaseRateDistributions": [
+        {
+          "ErrorCode": "",
+          "OrderNumber": "10",
+          "OrderSuffix": "11",
+          "Branch": "10",
+          "TotalHandlingAmount": 0,
+          "Weight": 0,
+          "AgencyCarriers": [
+            {
+              "Name": "",
+              "Code": "WC",
+              "Mode": "",
+              "TransitDays": 0,
+              "FreightAmount": 0
+            },
+            {
+              "Name": "USPS FIRST-C",
+              "Code": "VA",
+              "Mode": "SML",
+              "TransitDays": 2,
+              "FreightAmount": 4.59
+            },
+            {
+              "Name": "UPSMI-BMC   ",
+              "Code": "MB",
+              "Mode": "SML",
+              "TransitDays": 2,
+              "FreightAmount": 6.79
+            },
+            {
+              "Name": "UPSMI-IRREGU",
+              "Code": "MR",
+              "Mode": "SML",
+              "TransitDays": 2,
+              "FreightAmount": 6.79
+            },
+            {
+              "Name": "FEDEX GROUND",
+              "Code": "4M",
+              "Mode": "SML",
+              "TransitDays": 2,
+              "FreightAmount": 12.3
+            },
+            {
+              "Name": "UPS GROUND  ",
+              "Code": "UG",
+              "Mode": "SML",
+              "TransitDays": 1,
+              "FreightAmount": 21.31
+            },
+            {
+              "Name": "FDX HOME DEL",
+              "Code": "HD",
+              "Mode": "SML",
+              "TransitDays": 1,
+              "FreightAmount": 21.37
+            },
+            {
+              "Name": "FEDEX GROUND",
+              "Code": "RG",
+              "Mode": "SML",
+              "TransitDays": 1,
+              "FreightAmount": 21.87
+            },
+            {
+              "Name": "UPS 3 DAY   ",
+              "Code": "U3",
+              "Mode": "AIR",
+              "TransitDays": 3,
+              "FreightAmount": 25.49
+            },
+            {
+              "Name": "UPS 2DAY INT",
+              "Code": "UB",
+              "Mode": "AIR",
+              "TransitDays": 2,
+              "FreightAmount": 38.81
+            },
+            {
+              "Name": "FEDX 2 DAY  ",
+              "Code": "F2",
+              "Mode": "AIR",
+              "TransitDays": 2,
+              "FreightAmount": 37.17
+            },
+            {
+              "Name": "FEDEX EXPRES",
+              "Code": "FG",
+              "Mode": "AIR",
+              "TransitDays": 3,
+              "FreightAmount": 35.36
+            },
+            {
+              "Name": "FEDX STD OVR",
+              "Code": "FO",
+              "Mode": "AIR",
+              "TransitDays": 1,
+              "FreightAmount": 50.27
+            },
+            {
+              "Name": "UPS OVERNITE",
+              "Code": "UO",
+              "Mode": "AIR",
+              "TransitDays": 1,
+              "FreightAmount": 53.43
+            },
+            {
+              "Name": "UPS NXT DAY ",
+              "Code": "UR",
+              "Mode": "AIR",
+              "TransitDays": 1,
+              "FreightAmount": 58.2
+            },
+            {
+              "Name": "FEDX PRTY 1 ",
+              "Code": "F1",
+              "Mode": "AIR",
+              "TransitDays": 1,
+              "FreightAmount": 53.96
+            },
+            {
+              "Name": "UPS AIR SAT ",
+              "Code": "US",
+              "Mode": "AIR",
+              "TransitDays": 1,
+              "FreightAmount": 77.77
+            }
+          ],
+          "SubTotalWithTax": 0
+        }
+      ],
+      "HasAUPostError": false,
+      "HasAlreadyAUPostError": false,
+      "IsShippingAddressAUPost": false,
+      "SelectedFreightForwarder": {
+        
+      },
+      "OrderStatusList": {
+        
+      },
+      "DirectshipCarriers": {
+        
+      },
+      "estimatesummary": {
+        "estimatedetails": {
+          "total": 0.00,
+          "subtotal": 0.00,
+          "totaldiscount": 0.00,
+          "taxtotal": 0.00
+        },
+        "estimatecostdetails": {
+          "total": 0.00,
+          "subtotal": 0.00,
+          "totaldiscount": 0.00,
+          "taxtotal": 0.00
+        }
+      },
+      "subscriptionsdetails": [
+        
+      ]
+    },
+    "LastSuccessfullAttemptAt": "2023-12-12T21:05:35.6095025-08:00",
+    "LastAttemptAt": "2023-12-12T21:05:35.6095025-08:00",
+    "LastAttemptFailed": false,
+    "ErrorMessages": [
+      
+    ],
+    "WarningMessages": [
+      
+    ],
+    "InformationMessages": [
+      
+    ],
+    "SuccessMessages": [
+      
+    ],
+    "SystemErrorCode": "",
+    "SystemErrorMessage": "",
+    "ServiceStatus": 0
+  },
+  "RecentlyDeletedLines": [
+    
+  ],
+  "ShipToAddress": {
+    "FirstName": "",
+    "LastName": "",
+    "CompanyName": "TECHNIJIAN INC",
+    "HouseNumber": "",
+    "City": "IRVINE",
+    "Line1": "18 TECHNOLOGY DR STE 141",
+    "Line2": "",
+    "Line3": "",
+    "Line4": "IRVINE                CA 926182311",
+    "StateCode": "CA",
+    "StateName": "CA",
+    "PostalCode": "926182311",
+    "CountryCode": "",
+    "CountryName": "",
+    "PhoneNumber": "",
+    "FaxNumber": "",
+    "Email": "",
+    "AddressHasIe": false,
+    "IngramMicroId": "314",
+    "IsDefault": false,
+    "IMOnlineAddressId": "00000000-0000-0000-0000-000000000000",
+    "IsPrivateUser": false,
+    "IsDefaultLegalAddress": false,
+    "AddressType": 0,
+    "ShipFrom": ""
+  },
+  "ShipComplete": false,
+  "BillToAddress": {
+    "FirstName": "",
+    "LastName": "",
+    "CompanyName": "TECHNIJIAN INC",
+    "HouseNumber": "",
+    "City": "WAYNE",
+    "Line1": "CISCO CAPITAL",
+    "Line2": "1111 OLD EAGLE SCHOOL RD",
+    "Line3": "",
+    "Line4": "WAYNE                 PA 190871453",
+    "StateCode": "PA",
+    "StateName": "PA",
+    "PostalCode": "190871453",
+    "CountryCode": "",
+    "CountryName": "",
+    "PhoneNumber": "",
+    "FaxNumber": "",
+    "Email": "",
+    "AddressHasIe": false,
+    "IngramMicroId": "114",
+    "BillToShipToAssociation": "314",
+    "IsDefault": false,
+    "IMOnlineAddressId": "00000000-0000-0000-0000-000000000000",
+    "IsPrivateUser": false,
+    "IsDefaultLegalAddress": false,
+    "AddressType": 0,
+    "ShipFrom": ""
+  },
+  "NextLineNumber": 2,
+  "RecreateOrder": true,
+  "LtlInformation": {
+    "QuestionnaireEnabled": false,
+    "IsLtlRequired": false,
+    "IsLtlEntered": false,
+    "TermsRequired": false
+  },
+  "PaymentInformation": {
+    "PaymentType": 2,
+    "AutoSelectedBillToAddress": true,
+    "AllowedPaymentTypes": [
+      {
+        "PaymentType": 2,
+        "Identifier": "Flooring",
+        "Enabled": false,
+        "Sequence": 0,
+        "Fulfillment": false,
+        "PrePayment": false,
+        "PostPayment": false,
+        "OrderRank": 0,
+        "ExpiryMonth": 0,
+        "ExpiryYear": 0,
+        "IsCardSavedForFuture": false,
+        "MinOrdertoShow": 0,
+        "Termtype": false
+      },
+      {
+        "PaymentType": 3,
+        "Identifier": "CreditCard",
+        "Enabled": false,
+        "Sequence": 0,
+        "Fulfillment": false,
+        "PrePayment": false,
+        "PostPayment": false,
+        "OrderRank": 0,
+        "ExpiryMonth": 0,
+        "ExpiryYear": 0,
+        "IsCardSavedForFuture": false,
+        "MinOrdertoShow": 0,
+        "Termtype": false
+      }
+    ],
+    "AllowedCreditCards": [
+      "American Express",
+      "Discover",
+      "Master Card",
+      "Visa"
+    ],
+    "isThirdPartyPaymentTypeEnabled": false,
+    "CCTokenSelectedPaymentType": "Flooring",
+    "IsCTO": false
+  },
+  "CanHoldOrder": true,
+  "HideHoldOrderButton": false,
+  "DisableHold": false,
+  "WillCallInformation": {
+    "RequiredWillCallInformationFieldTypes": [
+      0,
+      1,
+      2
+    ],
+    "WillCallInformationValues": {
+      "FirstName": "Test",
+      "LastName": "Account",
+      "PhoneNumber": ""
+    }
+  },
+  "CheckoutBasketMessages": [
+    
+  ],
+  "Distributions": [
+    {
+      "OrderNumber": "10",
+      "DisplaySubmitPaymentButton": false,
+      "CreditCardEnabled": false,
+      "CreditCardOverLimit": false,
+      "WarehouseId": "10",
+      "LineItemIds": [
+        "ffab80d4-803e-46a3-b93f-b5994c8c6cc1"
+      ],
+      "DistributionTotal": {
+        "ShipComplete": false,
+        "PromptPaymentDiscount": 0,
+        "DisplayPromptPaymentDiscount": false,
+        "MercadoPagoTransactionFee": 0,
+        "DisplayMercadoPagoTransactionFee": false,
+        "ShippableSubTotal": 35.59,
+        "BackorderedSubTotal": 0.00,
+        "ShippingFee": 4.590,
+        "TaxesOrderAmount": 0.000,
+        "Tax": 0,
+        "HandlingAmount": 0,
+        "DistributionTotalDue": 40.180,
+        "Total": 40.180,
+        "RebateTotal": 0,
+        "RecycleFee": 0,
+        "CardFee": 0,
+        "MinimumOrderFee": 0,
+        "FulfillmentFee": 0,
+        "ElectronicOrderDiscount": 0,
+        "FeeSpeed": 0,
+        "VoucherDiscount": 0,
+        "ConvertedVoucherDiscount": 0,
+        "DisplayVoucherDiscount": false,
+        "ICMSTax": 0,
+        "ICMSSTTax": 0,
+        "OtherTax": 0,
+        "HasStockLines": true,
+        "DisplayFreightFromX4A": false,
+        "FeePremium": 0,
+        "FeeASN": 0,
+        "FeeToll": 0,
+        "DasCharge": 0,
+        "WebOrderDiscount": 0,
+        "ServiceCopyRightFee": 0,
+        "ServiceCopyRight2Fee": 0,
+        "ServiceCopyRight3Fee": 0,
+        "ServiceRecyclingFee": 0,
+        "ServiceFee": 0,
+        "ServiceEwasteRecycleFee": 0,
+        "InsuranceFee": 0,
+        "Misc3RDPCFee": 0,
+        "HeavyweightFreightFee": 0,
+        "DmSKUOrdFee": 0,
+        "MiscServiceFee": 0,
+        "MiscFrtChargeNlwhse": 0,
+        "MiscHandlingCharge": 0,
+        "MiscLineInterestCharge": 0,
+        "MiscIntercoTranserFee": 0,
+        "TotalTotal": 0,
+        "FreeShipTotal": 0
+      },
+      "SelectedCarrierCode": "VA",
+      "Carriers": [
+        {
+          "Name": "",
+          "Code": "WC",
+          "Mode": "",
+          "TransitDays": 0,
+          "FreightAmount": 0
+        },
+        {
+          "Name": "USPS FIRST-C",
+          "Code": "VA",
+          "Mode": "SML",
+          "TransitDays": 2,
+          "FreightAmount": 4.59
+        },
+        {
+          "Name": "UPSMI-BMC   ",
+          "Code": "MB",
+          "Mode": "SML",
+          "TransitDays": 2,
+          "FreightAmount": 6.79
+        },
+        {
+          "Name": "UPSMI-IRREGU",
+          "Code": "MR",
+          "Mode": "SML",
+          "TransitDays": 2,
+          "FreightAmount": 6.79
+        },
+        {
+          "Name": "FEDEX GROUND",
+          "Code": "4M",
+          "Mode": "SML",
+          "TransitDays": 2,
+          "FreightAmount": 12.3
+        },
+        {
+          "Name": "UPS GROUND  ",
+          "Code": "UG",
+          "Mode": "SML",
+          "TransitDays": 1,
+          "FreightAmount": 21.31
+        },
+        {
+          "Name": "FDX HOME DEL",
+          "Code": "HD",
+          "Mode": "SML",
+          "TransitDays": 1,
+          "FreightAmount": 21.37
+        },
+        {
+          "Name": "FEDEX GROUND",
+          "Code": "RG",
+          "Mode": "SML",
+          "TransitDays": 1,
+          "FreightAmount": 21.87
+        },
+        {
+          "Name": "UPS 3 DAY   ",
+          "Code": "U3",
+          "Mode": "AIR",
+          "TransitDays": 3,
+          "FreightAmount": 25.49
+        },
+        {
+          "Name": "UPS 2DAY INT",
+          "Code": "UB",
+          "Mode": "AIR",
+          "TransitDays": 2,
+          "FreightAmount": 38.81
+        },
+        {
+          "Name": "FEDX 2 DAY  ",
+          "Code": "F2",
+          "Mode": "AIR",
+          "TransitDays": 2,
+          "FreightAmount": 37.17
+        },
+        {
+          "Name": "FEDEX EXPRES",
+          "Code": "FG",
+          "Mode": "AIR",
+          "TransitDays": 3,
+          "FreightAmount": 35.36
+        },
+        {
+          "Name": "FEDX STD OVR",
+          "Code": "FO",
+          "Mode": "AIR",
+          "TransitDays": 1,
+          "FreightAmount": 50.27
+        },
+        {
+          "Name": "UPS OVERNITE",
+          "Code": "UO",
+          "Mode": "AIR",
+          "TransitDays": 1,
+          "FreightAmount": 53.43
+        },
+        {
+          "Name": "UPS NXT DAY ",
+          "Code": "UR",
+          "Mode": "AIR",
+          "TransitDays": 1,
+          "FreightAmount": 58.2
+        },
+        {
+          "Name": "FEDX PRTY 1 ",
+          "Code": "F1",
+          "Mode": "AIR",
+          "TransitDays": 1,
+          "FreightAmount": 53.96
+        },
+        {
+          "Name": "UPS AIR SAT ",
+          "Code": "US",
+          "Mode": "AIR",
+          "TransitDays": 1,
+          "FreightAmount": 77.77
+        }
+      ],
+      "AllowCarrierSelection": true,
+      "ElectronicDelivery": false,
+      "ServiceSkuDelivery": false,
+      "Weight": 0,
+      "HasLtlLines": false,
+      "HasDirectShipLines": false,
+      "HasStockLines": true,
+      "HasDownloadableLines": false,
+      "LtlCarrierSelected": false,
+      "IsLtlDistribution": false,
+      "IsWillCallCarrierSelected": false,
+      "IsIntCarrier": true,
+      "IsHAZMATRestrictionEnabled": false,
+      "HasCloudProductLines": false
+    }
+  ],
+  "AutoUpdatedShipToAddressToBillToAssociatedAddress": true,
+  "IsSelectedCarrierChanged": false,
+  "AllowFreightForwarderSelectionAndInternationalExport": false,
+  "IsIntCarrier": false,
+  "IsDomCarrier": false,
+  "IsOrderOnHoldToSubmit": false,
+  "IsReloadPage": false,
+  "IsFlooringAddressUncheckboxEnabled": false,
+  "IsForceLicenseOrder": false,
+  "IsShipToAddressFromQ2OInValid": false,
+  "IsCarrierSelectionRequired": false,
+  "IsPickUpOptionSelected": false,
+  "IsExportCarrier": false,
+  "PickUpCarrierCode": [
+    "WC"
+  ],
+  "EnablePickUpDetails": true,
+  "IsVmfRequired": false,
+  "ImpulseMaxWarehouseLimit": 0,
+  "IsAdjustMarginApplied": false,
+  "KeepAdjustedPriceAfterRenewal": false,
+  "IsOrderLevelMarginApplied": false,
+  "IsDefaultShippingAddressSelected": true,
+  "UseOnlyDropshipShippingAddress": false,
+  "BillingAddressCount": 1,
+  "IsConsolidateShipmentEnabled": true,
+  "IsConsolidateShipmentSelected": true,
+  "IsUserUpdatedShipmentOption": false,
+  "IsGlobalMarginApplied": false,
+  "CommerceEntityTotal": {
+    "TotalTotal": 35.59,
+    "FreeShipTotal": 35.59
+  },
+  "IsEndUserRequire": false,
+  "FulfilledByIngramOptionVisibility": 0,
+  "IsFulfilledByIngram": false,
+  "BasketTotal": {
+    "ShippableTotal": 35.59,
+    "BackorderedTotal": 0.00,
+    "ProductTotal": 0.0,
+    "TotalICMSTax": 0.0,
+    "TotalICMSSTTax": 0.0,
+    "TotalOtherTax": 0.0,
+    "MSRPTotal": 0.0,
+    "SubscriptionsTotal": 0.0,
+    "TotalTotal": 35.59,
+    "FreeShipTotal": 35.59
+  },
+  "BasketLines": [
+    {
+      "serviceduration": 0,
+      "durationtype": 0,
+      "ProductSummary": {
+        "Data": {
+          "IsWebVisible": false,
+          "AggAvilableQty": 0,
+          "CategoryRankFactor": 0,
+          "OrderNumber": 0,
+          "IsCloudProduct": false,
+          "IsTSSubscriptionProduct": false,
+          "IsConsumptionTypeUsageProduct": false,
+          "IsCentrallyStocked": false,
+          "ProductType": "Mouse",
+          "GlobalSku": "A300-CT7488",
+          "GlobalSkuWithLeadingZero": "A300-CT7488",
+          "Sku": "A300-CT7488",
+          "Category": "Input & Output Devices",
+          "DisplaySku": "CT7488",
+          "SubCategory": "Pointing Devices",
+          "VendorCode": "QA98",
+          "Vendor": "Logitech",
+          "Title": "MARATHON MOUSE M705",
+          "Description": "Logitech M705 Marathon Wireless Mouse, 2.4 GHz USB Unifying Receiver, 1000 DPI, 5-Programmable Buttons, 3-Year Battery, Compatible with PC, Mac, Laptop, Chromebook - Black - Laser - Wireless - 32.81 ft - 2.40 GHz - Silver - 1 Pack - USB - 1000 dpi - Scroll Wheel - 8 Button(s) - Right-handed Only - 2",
+          "Vpn": "910-001935",
+          "CpuCode": "MICE",
+          "ImVendorCode": "QA98",
+          "UpcEan": "0097855068538",
+          "IsNotExportable": false,
+          "MaterialType": "C",
+          "SkuType": "C",
+          "AcopRequestedQty": 0.0,
+          "PPalletQuantity": 0,
+          "NoReturnsFlag": false,
+          "ProductImage": {
+            "ImageUrlHigh": "https://inquirecontent2.ingrammicro.com/images/300/1017026542.jpg"
+          },
+          "ProductStatus": {
+            "IsDiscontinued": false,
+            "IsNew": false,
+            "IsSpecialOrder": false,
+            "IsDirectShip": false,
+            "IsRefurbished": false,
+            "IsHeavyWeight": false,
+            "IsLtl": false,
+            "IsExportItem": false,
+            "IsEndUserInfoRequired": false,
+            "IsActualEndUserInfoRequired": false,
+            "IsClearanceItem": false,
+            "IsVendorAuthorizationRequired": false,
+            "IsWebVisible": false,
+            "IsReturnable": false,
+            "IsAcop": false,
+            "IsPurchasable": false,
+            "IsBlowout": false,
+            "IsFavouriteSku": false,
+            "IsBackorderAllowed": true,
+            "IsBacktoBack": false,
+            "IsDownloadable": false,
+            "IsCustOwnedStock": false,
+            "IsPreOrder": false,
+            "IsHPiQuoteSku": false,
+            "IsWebDiscount": false,
+            "HasMpDoBem": false,
+            "HasSpecialPricing": false,
+            "HasNoFreeFreight": false,
+            "HasAdditionalShippingFees": false,
+            "HasShippingLimitations": false,
+            "HasReturnLimitations": false,
+            "HasSellingRestrictions": false,
+            "HasShipAlongItems": false,
+            "HasRelatedProducts": false,
+            "IsBom": false,
+            "HasVolumeDiscount": false,
+            "IsDirectShipOrderable": false,
+            "IsWebOrderable": false,
+            "IsEASku": false,
+            "IsFreeItem": false,
+            "HasSpecialBid": false,
+            "HasAccessories": false,
+            "HasAcopQuantityBreaks": false,
+            "HasAcopSpecialPricing": false,
+            "IsComponent": false,
+            "HasCentralStock": false,
+            "IsLicenseProduct": false,
+            "IsWarranty": false,
+            "ISSAPServiceSKU": false,
+            "IsVMFCharacteristicConfigurable": false,
+            "IsSoftwareLicense": false,
+            "IsBulkFreight": false,
+            "IsDangerous": false,
+            "IsOversizeProduct": false,
+            "IsNoReturnsAllowed": false,
+            "IsNotExportable": false,
+            "IsNonTransactional": false
+          },
+          "ProductMeasurement": {
+            "ProductWeight": [
+              {
+                "Weight": 0.4,
+                "WeightUnit": "KG"
+              }
+            ],
+            "IsBulkFreight": false,
+            "PMeasureHeight": 0.0,
+            "PMeasureWidth": 0.0,
+            "PMeasureLength": 0.0,
+            "PMeasureWeight": 0.4
+          },
+          "PriceAndStock": {
+            "MsrpPrice": 34.99,
+            "MsrpPriceTaxAmount": 0.0,
+            "DealerPrice": 31.80,
+            "DealerPriceTaxAmount": 0.0,
+            "PriceCurrency": "USD",
+            "Cost": 0.0,
+            "CostCurrency": "USD",
+            "HasStock": true,
+            "AvailableQuantity": 0,
+            "QuantityOnOrder": 0
+          },
+          "HasAccessories": false,
+          "HasCrossSells": false,
+          "HasWarranties": false,
+          "HasSpecialBid": false,
+          "FreeItem": {
+            
+          },
+          "Extrafees": [
+            
+          ],
+          "IsDownloadable": false,
+          "IsPrescribed": false,
+          "IsWarranty": false,
+          "ISSAPServiceSKU": false,
+          "IsVMFCharacteristicConfigurable": false,
+          "IsLinkableWarranty": false,
+          "IsLicenseRuleModel": false,
+          "IsEndUserInfoRequired": false,
+          "IsActualEndUserInfoRequired": false,
+          "IsDiscontinued": false,
+          "IsLicenseProduct": false,
+          "IsSoftwareLicense": false,
+          "IsDangerous": false,
+          "IsOversizeProduct": false,
+          "IsNoReturnsAllowed": false,
+          "PriceOnAcceptance": false,
+          "PriceOnAcceptancePopUp": false,
+          "BundleSkus": [
+            
+          ],
+          "PartOfBunddles": [
+            
+          ],
+          "Flags": [
+            
+          ],
+          "AuthorizedToPurchase": true,
+          "ManufacturerPartNumber": "910-001935"
+        },
+        "LastSuccessfullAttemptAt": "2023-12-12T21:05:22.9428361-08:00",
+        "LastAttemptAt": "2023-12-12T21:05:22.9428305-08:00",
+        "LastAttemptFailed": false,
+        "ISOLanguageCode": "en",
+        "ErrorMessages": [
+          
+        ],
+        "WarningMessages": [
+          
+        ],
+        "InformationMessages": [
+          
+        ],
+        "SuccessMessages": [
+          
+        ],
+        "ServiceStatus": 0
+      },
+      "PricingAndAvailability": {
+        "Data": {
+          "Pricing": {
+            "ListPrice": 35.59,
+            "ExtendedPrice": 35.59,
+            "ReplacementCost": 29.74,
+            "IngramCost": 29.89,
+            "ItemLevelDiscountAmount": 0.0,
+            "TaxTotal": 0.0,
+            "IsGDSEnable": false,
+            "MSRP": 34.99,
+            "ExtendedMSRP": 0.0,
+            "HasPromotions": false,
+            "HasSpecialPricing": false,
+            "HasWebDiscount": false,
+            "IsNonIMTSSku": false,
+            "DealerPrice": 35.75,
+            "DealerPrice1": 35.59,
+            "Taxes": [
+              
+            ],
+            "TaxEngineResponses": [
+              
+            ],
+            "Promotions": [
+              
+            ],
+            "EnvironmentalFees": [
+              
+            ],
+            "ExchangeRateAmount": 0,
+            "IsDiscountApplied": false,
+            "IsDiscountAvailable": false,
+            "IsFeeRequired": false,
+            "IsSBODefaultEndUser": false,
+            "CustomerPrice": 35.59,
+            "isMPdoBEMEligible": false,
+            "MpdoBEMLimit": 0.0,
+            "isServiceSku": false,
+            "QuantityBreaks": [
+              
+            ],
+            "ColumnIndicator": false,
+            "IsAcopApplied": false,
+            "IsNetZeroDelta": true,
+            "IsDoubleDippingEnabled": true,
+            "OrgDealerPrice": 35.75,
+            "avgcost": 0.0,
+            "Acops": [
+              
+            ],
+            "CloudProductPricingInformation": {
+              "Margin": 0.0,
+              "IsAdjustMarginApplied": false
+            },
+            "CloudTieredResellerLinePrice": 0.0,
+            "CloudTieredMsrpLinePrice": 0.0,
+            "UnitPriceMargin": 0.0,
+            "IsAdjustUnitPriceApplied": false,
+            "OriginalPrice": 0.0,
+            "OriginalCustomerPrice": 35.59
+          },
+          "Availability": {
+            "GlobalSku": "A300-CT7488",
+            "IsAvailable": true,
+            "IsStockable": false,
+            "HasQuantityBreaks": false,
+            "RequiresEndUser": false,
+            "CurrentStock": 2847,
+            "CanBackOrder": true,
+            "PNABackOrder": "Y",
+            "WarehouseStockDetails": [
+              {
+                "UnitOfMeasure": "",
+                "WarehouseId": "10",
+                "WarehouseDescription": "None",
+                "StorageLocation": "",
+                "StorageLocationDescription": "",
+                "WarehouseAbbrevation": "",
+                "WarehousePrice": 0.0,
+                "Quantity": 394,
+                "TotalQuantityOnOrder": 0,
+                "ReservedStock": [
+                  
+                ],
+                "QuantitiesOnOrder": [
+                  {
+                    "Quantity": 0,
+                    "Date": "2024-03-22T00:00:00",
+                    "IlogxStatus": false
+                  }
+                ]
+              },
+              {
+                "UnitOfMeasure": "",
+                "WarehouseId": "20",
+                "WarehouseDescription": "None",
+                "StorageLocation": "",
+                "StorageLocationDescription": "",
+                "WarehouseAbbrevation": "",
+                "WarehousePrice": 0.0,
+                "Quantity": 378,
+                "TotalQuantityOnOrder": 0,
+                "ReservedStock": [
+                  
+                ],
+                "QuantitiesOnOrder": [
+                  {
+                    "Quantity": 0,
+                    "Date": "2024-03-22T00:00:00",
+                    "IlogxStatus": false
+                  }
+                ]
+              },
+              {
+                "UnitOfMeasure": "",
+                "WarehouseId": "40",
+                "WarehouseDescription": "None",
+                "StorageLocation": "",
+                "StorageLocationDescription": "",
+                "WarehouseAbbrevation": "",
+                "WarehousePrice": 0.0,
+                "Quantity": 929,
+                "TotalQuantityOnOrder": 0,
+                "ReservedStock": [
+                  
+                ],
+                "QuantitiesOnOrder": [
+                  {
+                    "Quantity": 0,
+                    "Date": "2024-03-22T00:00:00",
+                    "IlogxStatus": false
+                  }
+                ]
+              },
+              {
+                "UnitOfMeasure": "",
+                "WarehouseId": "89",
+                "WarehouseDescription": "Local",
+                "StorageLocation": "",
+                "StorageLocationDescription": "",
+                "WarehouseAbbrevation": "",
+                "WarehousePrice": 0.0,
+                "Quantity": 1146,
+                "TotalQuantityOnOrder": 4,
+                "ReservedStock": [
+                  
+                ],
+                "QuantitiesOnOrder": [
+                  {
+                    "Quantity": 4,
+                    "Date": "2023-09-29T00:00:00",
+                    "IlogxStatus": false
+                  }
+                ]
+              }
+            ],
+            "ReservedStockDetails": [
+              
+            ],
+            "HasReserveStocks": false,
+            "ShowStockThresholdValue": false,
+            "HideOnOrderStockColumn": false,
+            "isSerializedSku": false,
+            "isRestrictedSku": false,
+            "isBackEndSAP": false,
+            "hazmatIndicator": true,
+            "totalVisibleReserveQuantity": 0
+          }
+        },
+        "LastSuccessfullAttemptAt": "2023-12-12T21:05:23.1563386-08:00",
+        "LastAttemptAt": "2023-12-12T21:05:23.1563341-08:00",
+        "LastAttemptFailed": false,
+        "ErrorMessages": [
+          
+        ],
+        "WarningMessages": [
+          
+        ],
+        "InformationMessages": [
+          
+        ],
+        "SuccessMessages": [
+          {
+            
+          }
+        ],
+        "ServiceStatus": 0
+      },
+      "LastModified": "2023-12-12T21:05:19.3158681-08:00",
+      "IsDeleted": false,
+      "WarehouseId": "10",
+      "IsCentralStock": false,
+      "IsHeavyWeight": false,
+      "IsHPiQuoteSKU": false,
+      "IsHardAttachSKU": false,
+      "IsSuggestedProductSKU": false,
+      "HasSpecialPricingSummary": false,
+      "IsEODAcopApplied": false,
+      "HasWebDiscount": false,
+      "HasQuantityBreakSummary": false,
+      "ShowMaxQtyExceededMessage": false,
+      "AcopAppliedSpecialPricing": {
+        "Data": {
+          "Discounts": [
+            
+          ],
+          "TotalAcopDelta": 0,
+          "BackOrderRecostFlag": false,
+          "LastModified": "0001-01-01T00:00:00",
+          "DiscountAppliedFlag": false
+        },
+        "LastAttemptFailed": false,
+        "ErrorMessages": [
+          
+        ],
+        "WarningMessages": [
+          
+        ],
+        "InformationMessages": [
+          
+        ],
+        "SuccessMessages": [
+          
+        ],
+        "ServiceStatus": 0
+      },
+      "LineCheckoutInformation": {
+        "Data": {
+          "SalesOrderQuoteInfo": {
+            "ReferenceId": "ffab80d4-803e-46a3-b93f-b5994c8c6cc1",
+            "OrderNumber": "10",
+            "IngramPartNumber": "CT7488",
+            "ConfirmedQuantity": 1,
+            "BackOrderQuantity": 0,
+            "OrderQuantity": 1,
+            "LineNumber": "001",
+            "LineOrderType": "S",
+            "Warehouse": "10",
+            "SubTotal": 0.00,
+            "TaxAmount": 0.00,
+            "Total": 35.59,
+            "UnitPrice": 35.59,
+            "AdjustedCustomerPrice": 0,
+            "IsCotermApplied": false,
+            "LastModified": "2023-12-12T21:05:35.6094489-08:00",
+            "IsAcopApplied": false,
+            "AcopDiscountDetails": {
+              "Discounts": [
+                
+              ],
+              "TotalAcopDelta": 0,
+              "BackOrderRecostFlag": false,
+              "LastModified": "0001-01-01T00:00:00",
+              "DiscountAppliedFlag": false
+            },
+            "ConfirmedQuantityNotAvailable": false,
+            "ExtendedUnitPrice": 0,
+            "EndCustomerPrice": 0,
+            "ExtendedEndCustomerPrice": 0
+          },
+          "CustomerLineNumber": 1
+        },
+        "LastSuccessfullAttemptAt": "2023-12-12T21:05:35.6095025-08:00",
+        "LastAttemptAt": "2023-12-12T21:05:35.6095025-08:00",
+        "LastAttemptFailed": false,
+        "ErrorMessages": [
+          
+        ],
+        "WarningMessages": [
+          
+        ],
+        "InformationMessages": [
+          
+        ],
+        "SuccessMessages": [
+          
+        ],
+        "ServiceStatus": 0
+      },
+      "DirectShipVmfFields": {
+        
+      },
+      "STypeVmfFields": {
+        
+      },
+      "VMFCharacteristicsValue": {
+        
+      },
+      "EndlessVmfFields": {
+        
+      },
+      "LastVmfUpdate": "0001-01-01T00:00:00",
+      "DirectShipGroupId": "00000000-0000-0000-0000-000000000000",
+      "EndlessAisleGroupId": "00000000-0000-0000-0000-000000000000",
+      "STypeGroupId": "00000000-0000-0000-0000-000000000000",
+      "LastUsedUnitPrice": 35.59,
+      "LastUsedUnitPriceDelta": 0,
+      "QuantityBreaks": {
+        "LastAttemptFailed": false,
+        "ErrorMessages": [
+          
+        ],
+        "WarningMessages": [
+          
+        ],
+        "InformationMessages": [
+          
+        ],
+        "SuccessMessages": [
+          
+        ],
+        "ServiceStatus": 0
+      },
+      "IsAcopApplied": false,
+      "SelectWarehouse": false,
+      "SpecialBidRealTimeStatusInformation": {
+        "Data": {
+          "IsRealTimeSpecialBidAvailable": false
+        },
+        "LastSuccessfullAttemptAt": "2023-12-12T21:05:22.9428778-08:00",
+        "LastAttemptAt": "2023-12-12T21:05:22.9428776-08:00",
+        "LastAttemptFailed": false,
+        "ErrorMessages": [
+          
+        ],
+        "WarningMessages": [
+          
+        ],
+        "InformationMessages": [
+          
+        ],
+        "SuccessMessages": [
+          
+        ],
+        "ServiceStatus": 0
+      },
+      "AppleCareDeviceInfoRequired": false,
+      "IsAribaSession": false,
+      "IsAribaSettingsEnabled": false,
+      "BackOrderedQuantity": 0,
+      "ProductRequestedQuantity": 1,
+      "MaxAllowedQuantity": 0,
+      "UnitPrice": 0.0,
+      "IsBrazilLinePrice": false,
+      "EndUserPrice": 0.0,
+      "CustomerEnteredPrice": 0.0,
+      "IsMPdoBEMEligible": false,
+      "UnitPriceWithOutTax": 0.0,
+      "MpdoBEMLimit": 0.0,
+      "IsDefaultEUDeleteRequest": false,
+      "IsSpla": false,
+      "CustomerPrice": 0.0,
+      "MpDoBemLimitCrossed": false,
+      "AppleDEPEnrollRequired": false,
+      "LineTypeQuote": "",
+      "IsFulfilledByIngram": false,
+      "IsVEUDVendor": false,
+      "IsOrderVerifyAPISuccessful": false,
+      "IsSkuRequireSingleUseEndUser": false,
+      "IsSkuRequireEndUser": false,
+      "WarrantySkuFields": {
+        "IsSkuRequireSerialNo": false,
+        "IsSkuRequireDate": false,
+        "DateGracePeriodNoOfDays": 0,
+        "LookUpDateGracePeriodNoOfDays": 0,
+        "IsSkuRequireVerifyAPIToCall": false,
+        "IsSkuRequireCompactCheck": false,
+        "NoOfAccessoriesOrSecondarySrNo": 0,
+        "FromDate": "0001-01-01T00:00:00",
+        "ToDate": "0001-01-01T00:00:00",
+        "MaxLineQtyPerWarrantyAfterSaleOrder": 0,
+        "MaxLineQtyPerWarrantyConcurrentOrder": 0,
+        "IsBulkUploadEnable": false,
+        "SerialNumberMinLength": 0,
+        "SerialNumberMaxLength": 0,
+        "MaxHardwarePerWarranty": 0,
+        "IsSkuRequireMSANumber": false
+      },
+      "IsRenewVuewQuoteline": false,
+      "LineSplit": false,
+      "VMFCharacteristicsStatus": false,
+      "IsEndUserModeLine": false,
+      "IsSplitLineWarehouseWise": false,
+      "IsSplitLineCartWise": false,
+      "EnableTTypeBackorder": false,
+      "IsBackOrderNotAllowed": false,
+      "IsNonTransactional": false,
+      "IsSingleWareHouse": false,
+      "IsBackorderSkuRestriction": false,
+      "LineOrderType": 0,
+      "IsOrderTypeChangeAllowed": false,
+      "IsStdSpecialPrice": false,
+      "IsACOPAppliedToPrice": false,
+      "IsQuantityBreaksAvailable": false,
+      "IsACOPSpecialPriceApplied": false,
+      "IsACOPVolumeDiscountApplied": false,
+      "IsEODACOPSpecialPriceApplied": false,
+      "IsEODACOPVolumeDiscountApplied": false,
+      "IsStdQuantityBreakApplied": false,
+      "IsAcopLineAvailable": false,
+      "OriginalCartLineQuantity": 1,
+      "OriginalCartLineBackOrderQuantity": 0,
+      "IsCompleteDelivery": false,
+      "IsAcopMaxLimitBackofficeEnabled": false,
+      "LineType": 1,
+      "Id": "ffab80d4-803e-46a3-b93f-b5994c8c6cc1",
+      "Sku": "A300-CT7488",
+      "Quantity": 1,
+      "IsChanged": true
+    }
+  ],
+  "Notes": "",
+  "ResellerId": "14047541",
+  "SiteCode": "us",
+  "PnAStatus": {
+    "LastSuccessfullAttemptAt": "2023-12-12T21:05:23.1563386-08:00",
+    "LastAttemptAt": "2023-12-12T21:05:23.1563341-08:00",
+    "LastAttemptFailed": false,
+    "ErrorMessages": [
+      
+    ],
+    "WarningMessages": [
+      
+    ],
+    "InformationMessages": [
+      
+    ],
+    "SuccessMessages": [
+      
+    ],
+    "SystemErrorCode": "200",
+    "SystemErrorMessage": "Data Found",
+    "ServiceStatus": 0
+  },
+  "IsMobile": true,
+  "HasIe": false,
+  "HasEu": false,
+  "IsSelectedSource": false,
+  "IsQuoteTypeRenewal": false,
+  "UserSelectsWarehouse": true,
+  "BasketMessages": [
+    
+  ],
+  "EndlessAisleGroups": [
+    
+  ],
+  "STypeGroups": [
+    
+  ],
+  "IsVoucherOperationEnabled": false,
+  "AppleCareIntegrationEnable": false,
+  "DisplayAdditionalFeesEnable": false,
+  "DirectShipPaymentWarningFlg": false,
+  "IsSTypeQuestionnaireEnabled": false,
+  "EnableRedesignedVendorQuestionnaire": false,
+  "IsSpla": false,
+  "SplaLocalReportDueDate": "0001-01-01T00:00:00",
+  "IsFirstCheckoutBasketLoad": false,
+  "RefreshDirectShipBasketPage": false,
+  "RefreshSTypeBasketPage": false,
+  "EnableAppleDep": false,
+  "IsEndUserCustomerNumberChanged": false,
+  "IsEndUserFromQuote": false,
+  "IsMultiConfigWithSuggested": false,
+  "SplaReportId": 0,
+  "SplaAgreementId": 0,
+  "IsSPLAFlow": false,
+  "FutureFunctionalityFlags": {
+    "EnableCheckoutRedesign": true,
+    "EnableCartSplitLine": false,
+    "EnableCartSplitLineForSpecialPricing": false,
+    "EnableWarrantyManualLink": false,
+    "EnableVmfEngineApi": true,
+    "EnableCTODynamicVMF": false,
+    "EnableQ2OUnification": false
+  },
+  "IsEppAccount": false,
+  "BasketOrderType": 0,
+  "Id": "cac02b49-cb06-449e-b081-3327cd80eef0",
+  "Name": "Test",
+  "CommerceEntityType": 2,
+  "SecurityLevel": 1,
+  "BasketLineCount": 1,
+  "OwnerUserId": "d99872d7-97e9-4cc1-b253-379f4ceba235",
+  "LockedByUserId": "d99872d7-97e9-4cc1-b253-379f4ceba235",
+  "Created": "2023-12-12T21:05:08.1324595-08:00",
+  "LastModified": "2023-12-12T21:05:35.6236917-08:00"
+}

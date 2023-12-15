@@ -1,0 +1,97 @@
+[
+    {
+        "title": "INV_REFINE",
+        "attributes": [
+            {
+                "id": "ingramshipflag",
+                "name": null,
+                "displayName": "Ingram Ship",
+                "count": 925,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "norefurbishedflag",
+                "name": null,
+                "displayName": "Exclude Refurbished",
+                "count": 883,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "instockororder",
+                "name": null,
+                "displayName": "In Stock or On Order",
+                "count": 542,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "instock",
+                "name": null,
+                "displayName": "In Stock",
+                "count": 303,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "Promotion",
+                "name": null,
+                "displayName": "Promotion",
+                "count": 121,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "refurbishedflag",
+                "name": null,
+                "displayName": "Refurbished",
+                "count": 45,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "discontinuedflag",
+                "name": null,
+                "displayName": "Discontinued",
+                "count": 37,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "newproductflag",
+                "name": null,
+                "displayName": "New Product",
+                "count": 5,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "directshipflag",
+                "name": null,
+                "displayName": "Direct Ship",
+                "count": 3,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            },
+            {
+                "id": "bomflag",
+                "name": null,
+                "displayName": "Bundle",
+                "count": 1,
+                "isAbsolute": false,
+                "rangeAttribute": null,
+                "attributeOptions": null
+            }
+        ]
+    }
+]
